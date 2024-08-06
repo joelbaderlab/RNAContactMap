@@ -61,11 +61,12 @@ Open a web browser and navigate to the provided URL to access the tool.
 
 - **Enter Sequence**: Input the nucleotide sequence you want to visualize. The sequence should be a string containing only ACGTU without white space. Successful adding of sequence gives a message of "Successfully added [Sequence Name]". Longer sequence takes more time for the app to predict the secondary structure and add it into the database.
 
-![readme_template](./figures/readme_template.png)
-
 **Information Tab**
 
 - **Select Template Sequence**: Choose the template sequence to display RNA contact maps in *ContactMap Template Tab*. The contact maps show base pairings with colors indicating base pairing probability.
+
+![readme_template](./figures/readme_template.png)
+
 - **Align Query Sequence**: Select the query sequence to align with the template. Use the slider to specify the alignment position. The overlaying contact map will be shown in *ContactMap Alignment Tab*.
 
 ![readme_align](./figures/readme_align.png)
