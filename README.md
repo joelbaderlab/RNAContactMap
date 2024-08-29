@@ -15,7 +15,7 @@ RNA ContactMap is a novel tool for visualizing RNA structures. It allows users t
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/sophiecai1996/RNAContactMap.git
+git clone https://github.com/joelbaderlab/RNAContactMap.git
 cd RNAContactMap
 ```
 
